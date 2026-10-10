@@ -7,6 +7,7 @@ I'm an aspiring GRC Analyst with an interest in Cybersecurity Governance, Risk, 
 I'm based in British Columbia, Canada, with an educational background and a commitment to self-directed learning. My goal is to grow professionally and contribute to helping organizations manage risks, strengthen security, and maintain compliance with industry standards and regulations.
 
 📚 What I'm Currently Learning
+
 Governance, Risk, and Compliance (GRC)
 Cybersecurity Governance, Risk Management, and Security Compliance
 Third-Party Risk Management (TPRM)
